@@ -187,7 +187,7 @@
     }else{
         if (_noArryElementBool) {
             //表示一个数组 特殊情况
-            return 110;
+            return SCREEN_WIDTH-20;
         }else{
             
             return SCREEN_WIDTH/self.dataDry.count;
