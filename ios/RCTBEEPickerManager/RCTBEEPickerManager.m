@@ -6,7 +6,7 @@
 //  Copyright © 2016年 MFHJ-DZ-001-417. All rights reserved.
 //
 
-#import <React/RCTBEEPickerManager.h>
+#import "RCTBEEPickerManager.h"
 #import "BzwPicker.h"
 #import <React/RCTEventDispatcher.h>
 
